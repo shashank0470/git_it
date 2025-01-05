@@ -7,3 +7,6 @@ hello here we are understanding the git and its uses in backend
 
 
 this is for testing the git diff command in git
+
+
+phones are a important tool
